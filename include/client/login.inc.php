@@ -15,7 +15,7 @@ if ($content) {
 }
 
 ?>
-<h1><?php echo Format::display($title); ?></h1>
+<h1><?php echo Format::display('Sign In to Gizmo' ); ?></h1>
 <p><?php echo Format::display($body); ?></p>
 <form action="login.php" method="post" id="clientLogin">
     <?php csrf_token(); ?>

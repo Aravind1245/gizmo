@@ -78,7 +78,7 @@ if (($bks=StaffAuthenticationBackend::getExternal())) { ?>
     <a href="http://www.mindgraph.com" target="_blank">
         <!-- <img alt="osTicket" src="images/osticket-grey.png" class="osticket-logo"> -->
         <!--  aravind 6 -->
-       MindGraph
+       <!-- MindGraph -->
     </a>
 </div>
     <script>
