@@ -74,7 +74,7 @@ if (($bks=StaffAuthenticationBackend::getExternal())) { ?>
         </div>
     </div>
 </div>
-<div id="poweredBy"><?php echo __('Powered by'); ?>
+<div id="poweredBy"><?php echo __('Powered by MindGraph'); ?>
     <a href="http://www.mindgraph.com" target="_blank">
         <!-- <img alt="osTicket" src="images/osticket-grey.png" class="osticket-logo"> -->
         <!--  aravind 6 -->
